@@ -57,6 +57,6 @@
     "update-check": "1.5.4"
   },
   "dependencies": {
-    "undici": "^6.21.0"
+    "undici": "^6.24.0"
   }
 }
